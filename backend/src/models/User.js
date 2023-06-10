@@ -22,7 +22,7 @@ const UserSchema = new mongoose.Schema(
       default: false,
     },
   },
-  { timestams: true } //createdAt,updateAt
+  { timestamps: true } //createdAt,updateAt
 );
 
 module.exports = mongoose.model("User", UserSchema);

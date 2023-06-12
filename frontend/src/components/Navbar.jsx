@@ -76,7 +76,7 @@ const Navbar = () => {
                     </SearchContainer>
                 </Left>
                 <Center>
-                    <Logo>DPUUU</Logo>
+                    <Logo>DPU</Logo>
                 </Center>
                 <Right>
                     <MenuItem>REGISTER</MenuItem>
